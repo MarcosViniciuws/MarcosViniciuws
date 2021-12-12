@@ -6,8 +6,7 @@
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
 - <h3>My favorite technologies are React and JavaScript . <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
-
-- <h3> Student at rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
+ 
 
 - <h3>I live in Brazil. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></h3>
 
@@ -37,5 +36,5 @@
   <table>
     <tr>
       <td>
-      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=Nikolas-as&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+      <img align="left" width="470px" src="https://github-readme-stats.vercel.app/api?username=marcosviniciuws&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
       </td>
